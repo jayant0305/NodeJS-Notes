@@ -1,0 +1,16 @@
+VERSION 
+
+ this can hack your server also
+
+ 9.3.1
+
+ 1st - Major Release and Breaking update 
+ 2nd - Recommended bug fix
+ 3rd - Minor fixes (optional)
+
+ ^9.3.1
+ ^ (Carrot Symbol)- lock the Major Release and further version updated accordinly
+
+ 9.3.1 - <10.0.0
+
+~9.3.1 - swigly changes only minor bugs
