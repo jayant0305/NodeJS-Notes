@@ -10,7 +10,9 @@ app.set("view engine", "ejs")
 app.set("views",path.resolve("./views"))
 
 app.get('/', (req, res)=>{
-    res.render('home')
+    res.render('home',{
+        name:Jayant
+    })
 })
 app.listen(8080,()=>{
     console.log("listening on 8080")

@@ -1,0 +1,10 @@
+auth is of two types
+1. statefull - in which data or state is stored
+2. stateless - in which data or state is not stored
+
+
+middleware between requests and responses
+statefull process:
+1. an ID or a token is generated
+2. server map the ID with user
+3. server check the ID with user
